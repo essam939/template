@@ -27,14 +27,12 @@ class _OffersPageState extends State<OffersPage> {
               Container(
                 width: MediaQuery.of(context).size.width/2.05,
                 height: 300,
-                child: Image.network("https://www.designbold.com/academy/wp-content/uploads/2018/08/Music-And-Visual-Aesthetics-How-Album-Covers-Represent-The-Artistry-Of-Musician.png",fit: BoxFit.cover,)
-                ,
+                child: Image.network("https://www.designbold.com/academy/wp-content/uploads/2018/08/Music-And-Visual-Aesthetics-How-Album-Covers-Represent-The-Artistry-Of-Musician.png",fit: BoxFit.cover,),
               ),
               Container(
                 width: MediaQuery.of(context).size.width/2.05,
                 height: 300,
-                child: Image.network("https://www.designbold.com/academy/wp-content/uploads/2018/08/Music-And-Visual-Aesthetics-How-Album-Covers-Represent-The-Artistry-Of-Musician.png",fit: BoxFit.cover,)
-                ,
+                child: Image.network("https://www.designbold.com/academy/wp-content/uploads/2018/08/Music-And-Visual-Aesthetics-How-Album-Covers-Represent-The-Artistry-Of-Musician.png",fit: BoxFit.cover,),
               ),
             ],
           ),
